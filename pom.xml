@@ -130,10 +130,14 @@
                         </configuration>
                     </plugin>
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <plugin>
 =======
 <plugin>
 >>>>>>> feature/msp-9
+=======
+<plugin>
+>>>>>>> aff685a2b78537d1447008921f237ac0fbb91fb6
     <groupId>org.jacoco</groupId>
     <artifactId>jacoco-maven-plugin</artifactId>
     <version>0.8.2</version>
